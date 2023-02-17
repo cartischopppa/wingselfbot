@@ -1,5 +1,6 @@
 ### Wing Setup Menu
-![win_logo](https://o.remove.bg/downloads/901cafc8-5bd6-4f29-8fcc-05485396288c/1497553295-102_84846__1_-removebg-preview.png)
+![win_logo](https://ice-us-sfo-103085.icedrive.io/download?p=3glWjrFShGJK98E.iZ.MTEcnuLVz7nDi3dKwVLS2AT3z7iVseW15BZEmdi3JcurRtVhrkcygjSaSs1bdHdK3pqBrj19XXxJGYJ_LRExl032js1h3K9ihIgzjRsVXxNRF1AARnCPDcRH9Cuy9odchgtgTDvsEOUvFxnR_I9HYkvnm9pfTzXqRRKmtc13tindiAThzbO10pJ_WIgipC.CivQ--)
 ( Windows 10+ ) :
-> a. [Download](https://github.com/cartischopppa/wingselfbot/releases/tag/v1.02.3) the Windows ZIP from the **wing©** GitHub Page.
-> b. Once download has finished, extract all files from the folder and run requirements.bat file.
+> a. [Download](https://github.com/cartischopppa/wingselfbot/releases/tag/v1.02.3) the Windows version from the **wing©** GitHub Page.
+> b. Once download has finished, extract all files from the folder and run the "`requirements.bat`" file.
+> c. If no errors persist, 
