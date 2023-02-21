@@ -6,4 +6,4 @@
 
 > b. Once download has finished, extract all files from the folder and run the "`requirements.bat`" file.
 
-> c. If no errors persist,
+> c. If no errors persist, download the [latest version of Python](https://www.python.org/downloads/) and run the installation file.
