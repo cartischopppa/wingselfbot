@@ -7,3 +7,11 @@
 > b. Once download has finished, extract all files from the folder and run the "`requirements.bat`" file.
 
 > c. If no errors persist, download the [latest version of Python](https://www.python.org/downloads/) and run the installation file.
+
+> d. Once Python has downloaded and installed on your device, download [Visual Studio Code](https://code.visualstudio.com/) and install.
+
+> e. Navigate to the wing selfbot folder and right-click it, then select "Open With" and then "Visual Studio Code"
+
+ :white_check_mark:
+
+> note: If you get any errors, please join our **[Discord](discord.gg/)** and report in the `#bug-report` channel.
