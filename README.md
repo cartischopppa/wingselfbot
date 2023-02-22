@@ -4,7 +4,7 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-|   > a. [Download](https://github.com/cartischopppa/wingselfbot/releases/tag/v1.02.3) the `.zip` Windows release from the **wing©** GitHub Page.
+> a. [Download](https://github.com/cartischopppa/wingselfbot/releases/tag/v1.02.3) the `.zip` Windows release from the **wing©** GitHub Page.
 
 > b. Once download has finished, extract all files from the folder and run the "`requirements.bat`" file.
 
