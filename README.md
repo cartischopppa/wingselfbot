@@ -11,8 +11,11 @@
 > d. Once Python has downloaded and installed on your device, download [Visual Studio Code](https://code.visualstudio.com/) and install.
 > 
 :white_check_mark: Setup Complete!
+<br>
+<br>
 ---
 
+<br><br>
 ### Wing© Data / Startup Menu
 
 
