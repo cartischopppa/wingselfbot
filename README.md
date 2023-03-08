@@ -1,7 +1,7 @@
 
 ### Wing© Setup Menu 📄
 
-![winLogo](https://github.com/cartischopppa/wingselfbot/blob/main/win_logo(1)?raw=true)
+![win_logo](https://github.com/cartischopppa/wingselfbot/blob/master/win_logo%20(1).png)
 
 ( Windows 10+ ) :
 
