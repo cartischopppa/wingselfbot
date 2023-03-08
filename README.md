@@ -30,7 +30,3 @@
 then use the `CTRL + (button above TAB)` shortcut to open the terminal. Once this has opened, type:
 
 `py wing.py` and press ENTER.
-
-
-
-> note: If you get any errors, please join our **[Discord](discord.gg/)** and report in the `#bug-report` channel.
