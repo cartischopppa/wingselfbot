@@ -1,4 +1,4 @@
-T&Cs Policy ()
+© Copyright Notice ():
 
 
 
